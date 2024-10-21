@@ -9,7 +9,6 @@ This repository contains the UI/UX design for the **Integrated Challan Filling A
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 
@@ -19,24 +18,6 @@ This repository contains the UI/UX design for the **Integrated Challan Filling A
 - Support for multimodal inputs (voice, touch, and keyboard).
 - Bilingual Input (2 Languages available)
 - Efficient navigation through various stages of the challan filling process.
-
-
-## Screenshots
-
-- **Home Screen**  
-  ![Home Screen](https://github.com/Sri1724/NiravAI/blob/main/Home.png)
-
-- **Language**  
-  ![Language](https://github.com/Sri1724/NiravAI/blob/main/language.png)
-  
-- **Choose Action**  
-  ![Choose Action](https://github.com/Sri1724/NiravAI/blob/main/action.png)
-
-- **Input Interaction**  
-  ![Input Interaction](https://github.com/Sri1724/NiravAI/blob/main/input.png)
-  
-- **Scan Interaction**  
-  ![Scan Interaction](https://github.com/Sri1724/NiravAI/blob/main/scan.png)
 
 ## Getting Started
 
