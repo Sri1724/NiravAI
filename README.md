@@ -23,9 +23,20 @@ This repository contains the UI/UX design for the **Integrated Challan Filling A
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot1)
-![Screenshot 2](link_to_screenshot2)
-![Screenshot 3](link_to_screenshot3)
+- **Home Screen**  
+  ![Home Screen](https://github.com/Sri1724/NiravAI/blob/main/Home.png)
+
+- **Language**  
+  ![Language](https://github.com/Sri1724/NiravAI/blob/main/language.png)
+  
+- **Choose Action**  
+  ![Choose Action](https://github.com/Sri1724/NiravAI/blob/main/action.png)
+
+- **Input Interaction**  
+  ![Input Interaction](https://github.com/Sri1724/NiravAI/blob/main/input.png)
+  
+- **Scan Interaction**  
+  ![Scan Interaction](https://github.com/Sri1724/NiravAI/blob/main/scan.png)
 
 ## Getting Started
 
