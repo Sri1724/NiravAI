@@ -31,7 +31,7 @@ This repository contains the UI/UX design for the **Integrated Challan Filling A
 
 To view and interact with the design:
 
-1. Open the [Figma link][(link_to_your_figma_file)](https://www.figma.com/design/CK9NV5OK42qbpQNOftlsbc/NiravAI?node-id=0-1&node-type=canvas&t=N1rjy5lNsuY2Cnd0-0) to access the design file.
+1. Open the [Figma link][(https://www.figma.com/design/CK9NV5OK42qbpQNOftlsbc/NiravAI?node-id=0-1&node-type=canvas&t=N1rjy5lNsuY2Cnd0-0)] to access the design file.
 2. Duplicate the project to your own Figma account to edit and explore further.
 
 ## How to Use
